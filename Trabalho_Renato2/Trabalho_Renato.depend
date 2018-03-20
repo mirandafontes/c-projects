@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1486837666 source:c:\users\paulo ricardo\desktop\from old.windows\dev-c++\trabalho_renato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1490216392 source:c:\users\aluno\desktop\trabalho_renato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1490216579 source:c:\users\aluno\desktop\trabalho_renato\corretor.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"main.h"
+
+1490214250 c:\users\aluno\desktop\trabalho_renato\main.h
+

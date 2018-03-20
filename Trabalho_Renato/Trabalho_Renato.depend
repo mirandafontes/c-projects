@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1486837666 source:c:\users\paulo ricardo\desktop\from old.windows\dev-c++\trabalho_renato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
