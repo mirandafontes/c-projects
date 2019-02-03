@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1549136593 source:c:\users\hatsune miku\documents\trabalho_sd\2018.2\contadll\contadll\dllmain.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	"dll.h"
+
+1549134348 c:\users\hatsune miku\documents\trabalho_sd\2018.2\contadll\contadll\dll.h
+

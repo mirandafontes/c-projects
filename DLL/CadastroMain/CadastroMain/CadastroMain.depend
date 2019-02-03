@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549136992 source:c:\users\hatsune miku\documents\trabalho_sd\2018.2\cadastromain\cadastromain\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
