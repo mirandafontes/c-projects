@@ -1,5 +1,0 @@
-EXPORTS
-    criarConta @1
-    depositar @2
-    sacar @3
-    verSaldo @4
